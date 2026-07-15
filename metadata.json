@@ -1,0 +1,6 @@
+{
+  "name": "Exam Hall Allocation System",
+  "description": "A premium, production-quality, full-stack exam seating plan generator and hall supervisor workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
